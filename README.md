@@ -1,6 +1,6 @@
 Shifting retired battery disposal from metallurgical recycling to high-value utilization for optimizing decarbonization in China  
 
-%Copyright (c) 2025 Hongyi Xie(Fudan University), Yujie Wu (Princeton University) and Yutao Wang(Fudan University)
+%Copyright (c) 2025 Hongyi Xie(Fudan University) and Yutao Wang(Fudan University)
 
 %All rights reserved.
 
